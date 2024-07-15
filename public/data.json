@@ -1,0 +1,83 @@
+[
+    {
+      "title": "Medical Supplies for Rural Clinics",
+      "details": "Provide essential medical supplies to clinics in rural areas to improve healthcare access.",
+      "category": "health",
+      "title_color": "#0052FF",
+      "bg_color" : "#DBEAFE",
+      "btn_color": "#93C5FD",
+      "img": "https://i.postimg.cc/B8Q6w5Db/Food.png"
+    },
+    {
+      "title": "Scholarships for Underprivileged Students",
+      "details": "Help fund scholarships for students from low-income families to continue their education.",
+      "category": "education",
+      "title_color": "#DC2626",
+      "bg_color": "#FECACA",
+      "btn_color": "#F87171",
+      "img": "https://i.postimg.cc/7ZG78xvQ/Education.png"
+    },
+    {
+      "title": "Winter Clothing for Homeless",
+      "details": "Donate warm clothing to homeless individuals to help them stay warm during the winter months.",
+      "category": "clothing",
+      "title_color": "#15803D",
+      "bg_color": "#BBF7D0",
+      "btn_color": "#4ADE80",
+      "img": "https://i.postimg.cc/wTBL2Xwz/Clothing.png"
+    },
+    {
+      "title": "Vaccination Drive",
+      "details": "Support vaccination campaigns to immunize children and adults in underserved communities.",
+      "category": "health",
+      "img": "https://i.postimg.cc/zGshq98D/Logo.png"
+    },
+    {
+      "title": "School Supplies for Kids",
+      "details": "Provide school supplies to children in need to ensure they have the tools necessary for learning.",
+      "category": "education",
+      "img": "https://i.postimg.cc/pTZ5Yr8y/Rectangle-4284.png"
+    },
+    {
+      "title": "Clothing for Disaster Victims",
+      "details": "Donate clothing to individuals and families affected by natural disasters.",
+      "category": "clothing",
+      "img": "https://i.postimg.cc/3Nx4LhC1/Rectangle-4287.png"
+    },
+    {
+      "title": "Health Checkup Camps",
+      "details": "Organize health checkup camps in remote areas to offer medical services and consultations.",
+      "category": "health",
+      "img": "https://i.postimg.cc/qqDtSF1T/Rectangle-4287-1.png"
+    },
+    {
+      "title": "Building Libraries in Rural Schools",
+      "details": "Help build libraries in rural schools to provide students with access to books and learning resources.",
+      "category": "education",
+      "img": "https://i.postimg.cc/qB1CNt45/Rectangle-4287-2.png"
+    },
+    {
+      "title": "Uniforms for School Children",
+      "details": "Donate uniforms to school children from low-income families to ensure they can attend school.",
+      "category": "clothing",
+      "img": "https://i.postimg.cc/Kv43BZYv/Rectangle-4288.png"
+    },
+    {
+      "title": "Maternal Health Programs",
+      "details": "Support programs that provide prenatal and postnatal care to mothers in need.",
+      "category": "health",
+      "img": "https://i.postimg.cc/zGshq98D/Logo.png"
+    },
+    {
+      "title": "Tech for Education",
+      "details": "Donate laptops and tablets to students in underserved areas to support their online learning.",
+      "category": "education",
+      "img": "https://i.postimg.cc/pTZ5Yr8y/Rectangle-4284.png"
+    },
+    {
+      "title": "Blankets for the Needy",
+      "details": "Provide blankets to individuals and families in need during the cold season.",
+      "category": "clothing",
+      "img": "https://i.postimg.cc/3Nx4LhC1/Rectangle-4287.png"
+    }
+]
